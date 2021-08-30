@@ -10,7 +10,7 @@ namespace MvcMusicStore.Controllers
     {
         MusicStoreEntities storeDB = new MusicStoreEntities();
         const string PromoCode = "FREE";
-
+        // CI on GitHub
         //
         // GET: /Checkout/AddressAndPayment
 
